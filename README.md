@@ -2,7 +2,7 @@
 
 ### Usage
 
-Install dependecies.
+Install dependencies.
 
 ```shell
 $ npm install
